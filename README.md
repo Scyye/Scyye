@@ -1,0 +1,7 @@
+- 🔭 I’m currently working on a game, aswell as mods for a few games, like ROUNDS & Subnautica
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on pretty much any project
+- 🤔 I’m looking for help with learning git
+- 💬 Ask me about anything you're wondering
+- 📫 How to reach me: @scyye on discord, or join my dms [here](https://discord.gg/dD6AFSRTct)
+- 😄 Pronouns: **Any (just not it/ze/cloud/etc)   ase**
