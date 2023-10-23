@@ -4,4 +4,4 @@
 - 🤔 I’m looking for help with learning git
 - 💬 Ask me about anything you're wondering
 - 📫 How to reach me: @scyye on discord, or join my dms [here](https://discord.gg/dD6AFSRTct)
-- 😄 Pronouns: **Any (just not it/ze/cloud/etc)   ase**
+- 😄 Pronouns: **Any (no neo) ace**
