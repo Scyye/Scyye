@@ -1,5 +1,5 @@
 [![Scyye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scyye&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scyye&theme=synthwave&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scyye&theme=synthwave&layout=donut&exclude_repo=scyye.github.io,Vencord)](https://github.com/anuraghazra/github-readme-stats)
 
 # Scyye
 Hi, I'm Scyye, I make discord bots mainly, along with some other projects.
